@@ -1,46 +1,26 @@
-# Jekyll-Bootstrap
+# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
 
-## Usage
+## Getting Started
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+To use this theme, choose one of the following options to get started:
+* Download the latest release on Start Bootstrap
+* Fork this repository on GitHub
 
-## Version
+## Bugs and Issues
 
-0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
+Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
 
-**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
-However, the actual API has not changed at all.
-You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
+## Creator
 
-## Contributing
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-This repository tracks 2 projects:
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-- **Jekyll-Bootstrap Framework.**
-  The framework for which users should clone and build their blog on top of is available in the master branch.
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-  To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
-  This is very important as it allows me to accept your pull request without having to publish a public version release.
+## Copyright and License
 
-  Small, atomic Features, bugs, etc.
-  Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.
-  Please rebase as often as possible when working.
-  Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
-
-  For Big Features or major API extensions/edits:
-  This is the one case where I'll accept pull-requests based off the master branch.
-  This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-  Translation : it might take a bit longer so please be patient! (but sincerely thank you).
-
-- **Jekyll-Bootstrap Documentation Website.**
-  The documentation website at <http://jekyllbootstrap.com> is maintained in the gh-pages branch.
-  Please fork and contribute documentation additions to this branch only.
-
-The master and gh-pages branch do not share the same ancestry. Please treat them as completely separate git repositories!
-
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
+Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
