@@ -6,9 +6,6 @@ $(function() {
             // additional error messages or events
         },
         submitSuccess: function($form, event) {
-            // Prevent spam click and default submit behaviour
-            $("#btnSubmit").attr("disabled", true);
-            event.preventDefault();
         
             $("#btnSubmit").attr("disabled", false);
             $('#success').html("<div class='alert alert-success'>");
