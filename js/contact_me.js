@@ -18,14 +18,11 @@ $(function() {
                 .append("<strong>Your message has been sent. </strong>");
             $('#success > .alert-success')
                 .append('</div>');
-
-                    //clear all fields
+            
+            //clear all fields
             $('#contactForm').trigger("reset");
              
-        },
-        filter: function() {
-            return $(this).is(":visible");
-        },
+        }
     });
 
     $("a[data-toggle=\"tab\"]").click(function(e) {
